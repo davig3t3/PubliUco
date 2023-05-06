@@ -11,3 +11,16 @@ target/
 .DS_Store
 .metadata
 .project
+.metadata/.log
+*.snap
+*.index
+*.resources
+*.prefs
+*.xmi
+.metadata/.plugins/org.eclipse.jdt.core/externalLibsTimeStamps
+*.txt
+*.dat
+*.ser
+*.ini
+*.log
+*.xml
