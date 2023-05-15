@@ -1,5 +1,8 @@
 package co.edu.uco.publiuco.service.usecase.departamento;
 
-public interface RegistrarDepartamento {
+import co.edu.uco.publiuco.service.domain.DepartamentoDomain;
+import co.edu.uco.publiuco.service.usecase.UseCase;
+
+public interface RegistrarDepartamento extends UseCase<DepartamentoDomain>{
 
 }

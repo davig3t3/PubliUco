@@ -6,6 +6,7 @@ public class PaisDomain {
 	
 	private UUID codigo;
 	private String nombre;
+	
 	public UUID getCodigo() {
 		return codigo;
 	}

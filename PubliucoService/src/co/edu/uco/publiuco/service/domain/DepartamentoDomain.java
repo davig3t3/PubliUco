@@ -7,6 +7,7 @@ public class DepartamentoDomain {
 	private UUID codigo;
 	private PaisDomain pais;
 	private String nombre;
+	
 	public UUID getCodigo() {
 		return codigo;
 	}
