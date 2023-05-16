@@ -8,7 +8,9 @@ public class CiudadDomain {
 	private DepartamentoDomain departamento;
 	private String nombre;
 	
-	
+	public CiudadDomain() {
+		
+	}
 	
 	public UUID getCodigo() {
 		return codigo;
