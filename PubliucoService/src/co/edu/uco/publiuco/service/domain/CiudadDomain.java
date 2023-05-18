@@ -8,9 +8,10 @@ public class CiudadDomain {
 	private DepartamentoDomain departamento;
 	private String nombre;
 	
-	public CiudadDomain() {
-		
-	}
+	public CiudadDomain(UUID codigo, String nombre) {
+        this.codigo = codigo;
+        this.nombre = nombre;
+    }
 	
 	public UUID getCodigo() {
 		return codigo;
@@ -21,13 +22,13 @@ public class CiudadDomain {
 	public String getNombre() {
 		return nombre;
 	}
-	private void setCodigo(UUID codigo) {
+	public void setCodigo(UUID codigo) {
 		this.codigo = codigo;
 	}
 	private void setDepartamento(DepartamentoDomain departamento) {
 		this.departamento = departamento;
 	}
-	private void setNombre(String nombre) {
+	public void setNombre(String nombre) {
 		this.nombre = nombre;
 	}
 
