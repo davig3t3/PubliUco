@@ -4,3 +4,12 @@
 2023-05-12 22:14:43 [main] WARN  jul - No grammar source for scope [source.java]
 2023-05-12 22:14:43 [org.eclipse.tm4e.ui.internal.model.TMDocumentModel] WARN  jul - CANNOT find grammar for scopeName [source.java]. I am [source.xml]
 2023-05-12 22:14:43 [org.eclipse.tm4e.ui.internal.model.TMDocumentModel] WARN  jul - REMOVING RULE ENTIRELY DUE TO EMPTY PATTERNS THAT ARE MISSING
+2023-05-17 23:06:45 [main] WARN  jul - No grammar source for scope [source.java]
+2023-05-17 23:06:45 [org.eclipse.tm4e.ui.internal.model.TMDocumentModel] WARN  jul - CANNOT find grammar for scopeName [source.java]. I am [source.xml]
+2023-05-17 23:06:45 [org.eclipse.tm4e.ui.internal.model.TMDocumentModel] WARN  jul - REMOVING RULE ENTIRELY DUE TO EMPTY PATTERNS THAT ARE MISSING
+2023-05-18 18:11:02 [main] WARN  jul - No grammar source for scope [source.java]
+2023-05-18 18:11:02 [org.eclipse.tm4e.ui.internal.model.TMDocumentModel] WARN  jul - CANNOT find grammar for scopeName [source.java]. I am [source.xml]
+2023-05-18 18:11:02 [org.eclipse.tm4e.ui.internal.model.TMDocumentModel] WARN  jul - REMOVING RULE ENTIRELY DUE TO EMPTY PATTERNS THAT ARE MISSING
+2023-05-25 16:40:58 [main] WARN  jul - No grammar source for scope [source.java]
+2023-05-25 16:40:58 [org.eclipse.tm4e.ui.internal.model.TMDocumentModel] WARN  jul - CANNOT find grammar for scopeName [source.java]. I am [source.xml]
+2023-05-25 16:40:58 [org.eclipse.tm4e.ui.internal.model.TMDocumentModel] WARN  jul - REMOVING RULE ENTIRELY DUE TO EMPTY PATTERNS THAT ARE MISSING

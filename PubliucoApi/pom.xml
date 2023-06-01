@@ -46,6 +46,18 @@
 			<artifactId>PubliucoService</artifactId>
 			<version>0.0.1-SNAPSHOT</version>
 		</dependency>
+    	
+    	<dependency>
+		    <groupId>com.microsoft.azure</groupId>
+		    <artifactId>azure-keyvault-extensions</artifactId>
+		    <version>1.2.6</version>
+		</dependency>
+		
+		<dependency>
+		   	<groupId>com.azure.spring</groupId>
+		   	<artifactId>spring-cloud-azure-starter-keyvault-secrets</artifactId>
+		   	<version>5.0.0</version>
+		</dependency>
 		
 	</dependencies>
 

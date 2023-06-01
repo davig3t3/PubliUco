@@ -1,0 +1,15 @@
+database:
+  secret:
+    value: ${my-database-secret}
+
+spring:
+  cloud:
+    azure:
+      compatibility-verifier:
+        enabled: false
+      keyvault:
+        secret:
+          property-sources[0]:
+            name: spring-azure-publiuco
+            endpoint: https://spring-azure-publiuco.vault.azure.net/
+          property-source-enabled: true
